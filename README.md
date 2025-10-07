@@ -51,7 +51,7 @@ tenureBonus = 1 + 0.6 * log2(daysHeld + 1)
 totalWeight = balanceWeight × earlyBonus × tenureBonus
 ```
 
-**Source:** This formula is copied directly from `src/utils/cache.ts` in the main RewardFlow project (lines 345-383).
+**Source:** This formula is copied directly from `src/utils/cache.ts` in the main RewardFlow project.
 
 ## 📖 How to Use
 
@@ -74,22 +74,13 @@ totalWeight = balanceWeight × earlyBonus × tenureBonus
 ## 🎬 Perfect for Demos
 
 This tool is perfect for:
-- **Live streams** - interactive and engaging with step-by-step calculations
-- **Investor presentations** - show real scenarios with detailed breakdowns
 - **Community testing** - let people try their own data with hours-based system
 - **Educational purposes** - understand the algorithm with transparent math
-- **Professional demos** - clean tables, perfect alignment, no duplicate addresses
 
 ## 🔧 Files
 
 - **`demo.js`** - Main interactive script
 - **`formulas.js`** - Algorithm implementation
 - **`README.md`** - This documentation
-
-## 📄 License
-
-MIT License - see LICENSE file for details.
-
----
 
 **Built for the Solana ecosystem with ❤️ by the RewardFlow team.**
