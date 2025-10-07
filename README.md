@@ -73,12 +73,6 @@ totalWeight = balanceWeight × earlyBonus × tenureBonus
 - **5. Clear All Data** - Reset everything for new test
 - **6. Exit** - Close the application
 
-## 🎬 Perfect for Demos
-
-This tool is perfect for:
-- **Community testing** - let people try their own data with hours-based system
-- **Educational purposes** - understand the algorithm with transparent math
-
 ## 🔧 Files
 
 - **`demo.js`** - Main interactive script
