@@ -2,6 +2,8 @@
 
 An interactive, open-source tool to test the RewardFlow distribution algorithm with your own data. Add holders, configure settings, and see how the fair distribution algorithm works in real-time.
 
+🌐 **Main Website:** [https://rewardflow.org/]
+
 ## 🚀 Quick Start
 
 ```bash
