@@ -1,0 +1,35 @@
+{
+  "name": "rewardflow-distribution-algorithm",
+  "version": "1.0.0",
+  "description": "Interactive demo of the RewardFlow distribution algorithm",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js",
+    "demo": "node demo.js"
+  },
+  "keywords": [
+    "solana",
+    "crypto",
+    "distribution",
+    "rewards",
+    "algorithm",
+    "defi",
+    "token",
+    "blockchain",
+    "interactive",
+    "demo"
+  ],
+  "author": "RewardFlow Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/rewardflow-distribution-algorithm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/rewardflow-distribution-algorithm/issues"
+  },
+  "homepage": "https://github.com/your-username/rewardflow-distribution-algorithm#readme"
+}
